@@ -1,5 +1,8 @@
 # 🎮 RETRO VAULT — Colección Personal de Coleccionables
 
+v3 sin revistas
+v4 (actual) se agregaron revistas (+ graficos) y el buscador trae info de curiosidades, resumen, tapa, observaciones
+
 
 ```
 
